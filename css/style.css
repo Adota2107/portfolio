@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+}
+
+#introduce{
+    /* background-color:azure; */
+    width: 40%;
+    float: left;
+    margin-top: 350px ;
+    margin-left: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#contact{
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
+#contact:hover{
+    background-color: black;
+    color: white;
+}
+#image{
+    /* background-color: aqua; */
+    width: 40%;
+    float: right;
+    margin: 210px 50px;
+}
+img{
+    height: 500px;
+}
+#info{
+    /* background-color: blue; */
+    position: fixed;
+    bottom:  0;
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
